@@ -8,10 +8,10 @@ It might take a few minutes to launch. If after a bit it still doesn't launch th
 
 When it launches you should get the following
 
-![alt text](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot1.png)
+![alt text](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot2.png)
 
 Click on the file "Lab1.ipynb". This should create a new tab with the following. 
 
-![alt text](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot2.png)
+![alt text](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot1.png)
 
 Follow the instructions from there...
