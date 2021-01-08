@@ -12,6 +12,6 @@ When it launches you should get the following
 
 Click on the file "Lab 1.ipynb". This should create a new tab with the following. 
 
-![Image of jupyter notebook](https://github.com/hughshanahan/CS2900-Lab-2/blob/master/Screenshot%202019-01-30%20at%2017.26.08.png)
+![Image of jupyter notebook](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot%202021-01-08%20at%2022.41.46.png)
 
 Follow the instructions from there...
