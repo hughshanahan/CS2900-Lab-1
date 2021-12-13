@@ -1,0 +1,14 @@
+{
+  "name": "Lab1_Test",
+  "endpoint": "rhul/cs2900/sp22/lab1_test",
+  "src": [
+    "Lab1.ipynb"
+  ],
+  "protocols": [
+      "file_contents",
+      "unlock",
+      "grading",
+      "analytics",
+      "backup"
+  ]
+}
