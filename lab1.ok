@@ -9,7 +9,7 @@
     },
     "protocols": [
         "file_contents",
-	"grading",
-	"scoring"
+        "grading",
+        "scoring"
     ]
 }

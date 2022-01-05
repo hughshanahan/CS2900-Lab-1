@@ -2,9 +2,8 @@
 
 Please click on the launch Binder icon below. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hughshanahan/CS2900-Lab-1/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KuipersT/CS2900-Lab-1/HEAD)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuipersT/CS2900-Lab-1/blob/master/Lab1.ipynb)
-
 
 
 It will take a few minutes to launch....
