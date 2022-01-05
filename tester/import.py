@@ -1,6 +1,6 @@
 test = {
     'name': 'numpy-import',
-    'points': 1,
+    'points': 0,
     'suites': [
         {
             'cases': [
@@ -13,7 +13,10 @@ test = {
                     True
                     """
                 }
-            ]
+            ],
+            'scored': False,
+            'type': 'doctest'
         }
-    ],
+    ]
+
 }

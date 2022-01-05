@@ -31,7 +31,9 @@ test = {
 		    True
 		    """
 		}
-            ]
+            ],
+            'scored': True,
+            'type': 'doctest'
         }
-    ],
+    ]
 }
