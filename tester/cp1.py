@@ -34,5 +34,4 @@ test = {
             ]
         }
     ],
-    'scored': True
 }
