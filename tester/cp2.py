@@ -6,31 +6,28 @@ test = {
             'cases': [
                 {
                     'code': r"""
-		    >>> # It seems b is undefined. Have you defined it correctly?
-		    >>>
-		    >>> # I.e. b = np.array( . . . )
-                    >>> "b" in vars()
-                    True
-                    """
+					>>> # It seems b is undefined. Have you defined it correctly?
+					>>> # I.e. b = np.array( . . . )
+					>>> "b" in vars()
+					True
+					"""
                 },
-		{
-		    'code': r"""
-		    >>> # Hmm, b is not of type float64.
-		    >>> # Check you have specified the type correctly.
-    		    >>>
-		    >>> b.dtype.name
-                    'float64'
-		    """
-		},
-		{
-		    'code' : r"""
-		    >>> # Hmm, b is the correct type but the values are wrong.
- 		    >>> # Check the numbers you specified for the elements of b.
-		    >>>
-                    >>> b.dtype.name == 'float64' and np.array_equal(b, np.array([4., 5., 6.]))
-		    True
-		    """
-		}
+                {
+                    'code': r"""
+					>>> # Hmm, b is not of type float64.
+					>>> # Check you have specified the type correctly.
+					>>> b.dtype.name
+					'float64'
+					"""
+                },
+                {
+                    'code': r"""
+					>>> # Hmm, b is the correct type but the values are wrong.
+					>>> # Check the numbers you specified for the elements of b.
+					>>> b.dtype.name == 'float64' and np.array_equal(b, np.array([4., 5., 6.]))
+					True
+					"""
+                }
             ],
             'scored': True,
             'type': 'doctest'
