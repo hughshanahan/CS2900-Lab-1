@@ -16,7 +16,7 @@ test = {
                     'code': r"""
                     >>> # Your value for the second component of a is incorrect.
                     >>> # Remember that array indexes start from 0 in Python!
-                    >>> a_2 != 1
+                    >>> a_2 != 3
                     True
                     """
                 },
