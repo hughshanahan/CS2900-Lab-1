@@ -22,7 +22,7 @@ test = {
                 },
                 {
                     'code': r"""
-                    >>> # Hmm, b is the correct type but the values are wrong.
+                    >>> # Hmm, b is the correct type but the values are wrong. Test
                     >>> # Check the numbers you specified for the elements of b.
                     >>> b.dtype.name == 'float64' and np.array_equal(b, np.array([4., 5., 6.]))
                     True
