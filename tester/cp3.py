@@ -40,7 +40,7 @@ test = {
                 },
                 {
                     'code': r"""
-                    >>> # You should not be manually setting p to 0!
+                    >>> # You should NOT be manually setting p to 0!
                     >>> # You need to check orthogonality properly.
                     >>> from tester.utils.cp3 import check_p
                     >>> check_p()

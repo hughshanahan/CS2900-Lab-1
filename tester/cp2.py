@@ -8,7 +8,7 @@ test = {
                     'code': r"""
                     >>> # It seems b is undefined. Have you defined it correctly?
                     >>> # I.e. b = np.array( . . . )
-                    >>> "b" in vars()
+                    >>> "b" in dir()
                     True
                     """
                 },

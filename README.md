@@ -7,12 +7,16 @@ Please click on the launch Binder icon below.
 
 It will take a few minutes to launch....
 
-When it launches you should get the following
+When it launches you should see the following:
 
-![Image of Binder window](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot%202021-01-08%20at%2022.41.28.png)
+![Image of Binder loading](https://github.com/KuipersT/CS2900-Lab-1/blob/master/config/binder_loading.png)
 
-Click on the file "Lab 1.ipynb". This should create a new tab with the following. 
+Once it has loaded, you be greeted with this screen:
 
-![Image of jupyter notebook](https://github.com/hughshanahan/CS2900-Lab-1/blob/master/Screenshot%202021-01-08%20at%2022.41.46.png)
+![Image of Binder dashboard](https://github.com/KuipersT/CS2900-Lab-1/blob/master/config/binder_dashboard.png)
+
+Double-click on the file "Lab1.ipynb". This should create a new tab with the following:
+
+![Image of Jupyter notebook](https://github.com/KuipersT/CS2900-Lab-1/blob/master/config/loaded_notebook.png)
 
 Follow the instructions from there...

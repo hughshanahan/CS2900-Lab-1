@@ -8,7 +8,7 @@ test = {
                     'code': r"""
                     >>> # It seems a_2 is undefined. Have you defined it correctly?
                     >>> # I.e. a_2 = ...
-                    >>> 'a_2' in vars()
+                    >>> 'a_2' in dir()
                     True
                     """
                 },
