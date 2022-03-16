@@ -40,21 +40,22 @@ test = {
                 },
                 {
                     'code': r"""
-                    >>> # You should NOT be manually setting p to 0!
+                    >>> # p is not equal to zero.
+                    >>> # Check that your vectors are orthogonal.
+                    >>> p == 0
+                    True
+                    """
+                },
+                {
+                    'code': r"""
+                    >>> # Hmm, p is zero but you seem to have set it equal to 
+                    >>> # zero manually. This wasn't really the idea...
                     >>> # You need to check orthogonality properly.
                     >>> from tester.utils.cp3 import check_p
                     >>> check_p()
                     True
                     """
                 },
-                {
-                    'code': r"""
-                    >>> # p is not equal to zero.
-                    >>> # Check that your vectors are orthogonal.
-                    >>> p == 0
-                    True
-                    """
-                }
             ],
             'scored': True,
             'type': 'doctest'
