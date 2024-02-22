@@ -1,4 +1,4 @@
-# CS2900 Lab 1
+# Lab 1
 
 ## Running on Binder
 Please click on the launch Binder icon below. 
