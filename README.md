@@ -4,8 +4,17 @@
 
 You can run Jupyter directly from the department server:
 
-- First `git clone git@github.com:hughshanahan/CS2900-Lab-1.git` the repository and `cd` into the repository folder.
-- Type, run `jupyter notebook` to launch the notebook in the browser.
+- First run the following command
+```
+git clone git@github.com:hughshanahan/CS2900-Lab-1.git
+```
+to clone the repository and `cd` into the repository folder.
+
+- Then run 
+```
+jupyter notebook
+``` 
+to launch the notebook in the browser.
 
 You may have to copy and paste a URL from the output on the command line to the browser. 
 
@@ -30,6 +39,8 @@ this can be found at
 <a href="https://jupyter.org/install" class="uri">https://jupyter.org/install</a>. If you do not have it you, 
 <a href="https://docs.anaconda.com/anaconda/install/" class="uri"> Anaconda </a> is a handy tool to download Python and Jupyter in one bundle.
 
-You will need to clone the repository as above, and then launch your conda environment and install the packages in the `requirements.txt` folder. The main ones you will need are `numpy`, `matplotlib`, and `scipy`.
+You will need to clone the repository as above, and then launch your conda 
+environment and install the packages in the `requirements.txt` folder. 
+The main ones you will need are `numpy` and `matplotlib`.
 
 Make sure these are installed before starting the notebook!
